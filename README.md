@@ -61,4 +61,4 @@ User
 ![](images/users.PNG)
 
 Non-user  
-![](images/non_users.PNG)
+![](images/non_user.PNG)
