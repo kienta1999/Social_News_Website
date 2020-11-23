@@ -54,3 +54,11 @@ The password users register for must contain the following:
 - User 2:  
     talekien1710  
     Kien1234
+
+
+# Demo 
+User  
+![](images/users.PNG)
+
+Non-user  
+![](images/non_users.PNG)
