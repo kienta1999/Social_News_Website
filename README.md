@@ -1,10 +1,23 @@
 
-# CSE330
+# Social News Website
 
+This project is part of CSE330 - Creative Programming and Rapid Prototyping  
 488493 - Anh Le  
 488494 - Kien Ta
 
 Link to our story website: http://ec2-3-137-176-157.us-east-2.compute.amazonaws.com/~anhvqle/module3-group-module3-488493-488494/index.html
+
+# Basic functionality:  
+
+A news website where user can share their stories. PHP is used to dynamically generate HTML, as well as to make requests and change the database.  
+- Users can register for accounts and then log in to the website.  
+- Accounts should have both a username and a secure password (salted and encrypted).  
+- Registered users can submit story commentary.  
+- Registered users can comment on any story.  
+- Unregistered users can only view stories and comments.  
+- Registered users can edit and delete their stories and comments.  
+- All data about stories, comments are kept in MySQL database.  
+- Web security added to prevent attacking, such as CSRF attacks (token added), Injection attacks (prepared queries). Also password is salted and encrypted.  
 
 # Creative portion:
 
